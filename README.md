@@ -11,7 +11,6 @@
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
@@ -31,22 +30,8 @@
 <p>🌱 Curious mind always learning something new</p>
  
 <br>
-<br>
-<br>     
- 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=priscillasrg&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=20)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscillasrg&theme=dark&layout=compact&show_icons=true&title_color=6e40c9&icon_color=6e40c9)](https://github.com/anuraghazra/github-readme-stats)
      
- <br>
- <br> 
- <br>
-          
-![Snake animation](https://github.com/priscillasrg/priscillasrg/blob/output/github-contribution-grid-snake.svg)
-            
- <br>
- <br>
-          
-##      
+     
 <br>
 <br>      
 <div  align="center">
