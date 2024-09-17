@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<p> I'm Frontend Developer. My career started focusing in Angular and I'm improving my skills to become a specialist in JavaScript technologies.</p>
+<p> I'm Frontend Developer. My career started focusing in Angular and I'm improving my skills to become a fullstack in JavaScript technologies.</p>
 
 <p>✈️ Open to work anywhere remote</p>
 <p>💬 Feel free to talk to me</p>
