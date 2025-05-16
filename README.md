@@ -23,9 +23,8 @@
 <br>
 <br>
 
-<p> I'm Frontend Developer. My career started focusing in Angular and I'm improving my skills to become a fullstack in JavaScript technologies.</p>
+<p> I'm Frontend Developer. Always improving my skills and passion for Technology.</p>
 
-<p>✈️ Open to work anywhere remote</p>
 <p>💬 Feel free to talk to me</p>
 <p>🌱 Curious mind always learning something new</p>
  
@@ -34,8 +33,5 @@
      
 <br>
 <br>      
-<div  align="center">
-
-<a href="https://www.linkedin.com/in/priscillasrg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>         
+       
           
